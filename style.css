@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+#title{
+    text-align: left;
+    text-transform: capitalize;
+    text-decoration-line: overline underline;
+    text-decoration-color: aliceblue; 
+}
+#Title{
+border-radius: 25px;
+background: rgba(255, 200, 0, 0.727);
+color: aliceblue;
+text-align: end;
+line-height: 0;
+padding: 8px;
+font-size:large;
+}
+#image{
+    border: 5px solid rgba(255, 200, 0, 0.727);
+    border-style: double;
+    width: 100%;
+    margin-top: 80px;
+}
+#imag{
+    border: 5px solid rgba(255, 200, 0, 0.727);
+    border-style: double;
+    width: 100%;
+}
+h1{
+    text-transform: uppercase;
+}
+#Container{
+    font-family: "Libre Baskerville", serif;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    color: white;
+}
+footer{
+    background-color: rgba(255, 200, 0, 0.727);
+    text-align: center;
+    color: white;
+    margin: 0pt;
+    padding: 10px;
+}
